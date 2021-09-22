@@ -1,0 +1,22 @@
+h1{color:black ;
+padding: 10px;
+font-size: 30px;
+margin-right: 100px;
+background-color: purple ;}
+body{background-image: url(https://conteudo.imguol.com.br/c/entretenimento/68/2019/01/07/os-10-melhores-jogos-de-2018-na-opiniao-do-uol-jogos-1546887965085_v2_1920x1080.jpg);
+background-size: 90%;
+}
+
+h2, h3, h4{background-color: blue;
+color: black;
+padding-left: 100px;
+font-size: 20px;
+
+}
+
+p{ background-color: white;
+    background-size: 40px;
+font-size: 25px;
+color: black;
+}
+
